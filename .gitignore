@@ -1,0 +1,20 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
+
+# IDE settings
+.vscode/
+*.log
+
+# Node.js modules (for React frontend)
+node_modules/
